@@ -12,13 +12,3 @@ The application provides a **user-friendly interface** for basic arithmetic oper
 - **Equal Button ('=')** to evaluate expressions
 
 ---
-
-## Installation Guide
-
-### **1. Clone the Repository**
-
-```sh
-git clone https://github.com/dantevlou/CalculatorApp.git
-cd CalculatorApp
-
-```
